@@ -1,0 +1,17 @@
+main{
+	column-count: 3;
+	column-gap: 5px;
+}
+
+img{
+	margin: 5px;
+	max-width: 100%;
+	display: flex;
+}
+
+h1{
+	font-family: Roboto;
+	font-size: 48px;
+	color: #ffb5c2;
+	text-align: center;
+}
